@@ -1,0 +1,4 @@
+*.pyc
+.ropeproject
+doc/tags
+.session
